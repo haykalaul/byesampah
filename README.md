@@ -76,8 +76,8 @@ byesampah-trashclassification/
 ## 📸 Screenshot
 
 ![Screenshot](docs/hero0.png)
-![Screenshot](docs/hero2.png)
-![Screenshot](docs/hero1.png)
+![Screenshot](docs/Hero2.png)
+![Screenshot](docs/Hero1.png)
 
 ## 🚀 Setup Lokal
 
