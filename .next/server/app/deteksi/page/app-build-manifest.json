@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "/deteksi/page": [
+      "static/chunks/ff1a16fafef87110.js",
+      "static/chunks/7dd66bdf8a7e5707.js",
+      "static/chunks/e70362bcc2655f3c.js",
+      "static/chunks/f24cf4f7d20d5e36.js",
+      "static/chunks/e7b927fd1a4bc264.js",
+      "static/chunks/d6ddd0696f9791fd.js",
+      "static/chunks/6a4e1339acb90156.css",
+      "static/chunks/c375535558d24d77.js",
+      "static/chunks/c62b4372c26b460f.js",
+      "static/chunks/5564f493499345f1.js",
+      "static/chunks/202abb9aed9e828b.js",
+      "static/chunks/0656f51f27ce398d.js",
+      "static/chunks/turbopack-b1866ba64add87b3.js"
+    ]
+  }
+}
