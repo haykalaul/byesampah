@@ -136,9 +136,8 @@ npm run lint     # Jalankan ESLint
 
 ### Opsi 2: Manual Deploy
 1. **Build project locally**
-   ```bash
-   npm run build
-   ```
+   - Install dependencies: `npm install`
+   - Build: `npm run build`
 
 2. **Deploy menggunakan Netlify CLI**
    ```bash
@@ -147,9 +146,8 @@ npm run lint     # Jalankan ESLint
 
 ### Opsi 3: Drag & Drop
 1. **Build project**
-   ```bash
-   npm run build
-   ```
+   - Install dependencies: `npm install`
+   - Build: `npm run build`
 
 2. **Upload folder `.next`** ke Netlify dashboard via drag & drop
 
