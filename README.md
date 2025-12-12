@@ -73,6 +73,12 @@ byesampah-trashclassification/
 └── tsconfig.json         # TypeScript configuration
 ```
 
+## 📸 Screenshot
+
+![Screenshot](docs/hero0.png)
+![Screenshot](docs/hero2.png)
+![Screenshot](docs/hero1.png)
+
 ## 🚀 Setup Lokal
 
 ### Prerequisites
